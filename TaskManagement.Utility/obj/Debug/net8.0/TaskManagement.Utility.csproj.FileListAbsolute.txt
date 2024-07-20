@@ -1,0 +1,17 @@
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.deps.json
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Utility.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.DTO.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.Database.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\bin\Debug\net8.0\TaskManagement.DTO.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskMana.DA0F73FC.Up2Date
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\refint\TaskManagement.Utility.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\TaskManagement.Utility.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Utility\obj\Debug\net8.0\ref\TaskManagement.Utility.dll

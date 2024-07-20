@@ -1,0 +1,17 @@
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.Repository.deps.json
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.Repository.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.Repository.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.DTO.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.Database.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\bin\Debug\net8.0\TaskManagement.DTO.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskMana.E24E4F6A.Up2Date
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\refint\TaskManagement.Repository.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\TaskManagement.Repository.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Repository\obj\Debug\net8.0\ref\TaskManagement.Repository.dll

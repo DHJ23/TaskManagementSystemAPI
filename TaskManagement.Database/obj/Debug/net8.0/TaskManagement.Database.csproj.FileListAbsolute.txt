@@ -1,0 +1,14 @@
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\bin\Debug\net8.0\TaskManagement.Database.deps.json
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\bin\Debug\net8.0\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\bin\Debug\net8.0\TaskManagement.Database.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\refint\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\ref\TaskManagement.Database.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\bin\Debug\net8.0\TaskManagement.Database.runtimeconfig.json
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net8.0\TaskManagement.Database.genruntimeconfig.cache

@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A598ADC4-8670-434F-BEA6-D4FFF6B1D4E9}|TaskManagement.Repository\\TaskManagement.Repository.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.repository\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A598ADC4-8670-434F-BEA6-D4FFF6B1D4E9}|TaskManagement.Repository\\TaskManagement.Repository.csproj|solutionrelative:taskmanagement.repository\\repository\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D3F254E-4EE3-47BC-A33C-B150A2759F08}|TaskManagement.Utility\\TaskManagement.Utility.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.utility\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D3F254E-4EE3-47BC-A33C-B150A2759F08}|TaskManagement.Utility\\TaskManagement.Utility.csproj|solutionrelative:taskmanagement.utility\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A598ADC4-8670-434F-BEA6-D4FFF6B1D4E9}|TaskManagement.Repository\\TaskManagement.Repository.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.repository\\irepository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A598ADC4-8670-434F-BEA6-D4FFF6B1D4E9}|TaskManagement.Repository\\TaskManagement.Repository.csproj|solutionrelative:taskmanagement.repository\\irepository\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22ABD07-311C-4E67-B900-C06A3B99C0BC}|TaskManagement.Service\\TaskManagement.Service.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.service\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22ABD07-311C-4E67-B900-C06A3B99C0BC}|TaskManagement.Service\\TaskManagement.Service.csproj|solutionrelative:taskmanagement.service\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22ABD07-311C-4E67-B900-C06A3B99C0BC}|TaskManagement.Service\\TaskManagement.Service.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.service\\iservices\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22ABD07-311C-4E67-B900-C06A3B99C0BC}|TaskManagement.Service\\TaskManagement.Service.csproj|solutionrelative:taskmanagement.service\\iservices\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EF42FA-2672-4A18-A791-6DBA0F32A413}|TaskManagemnet.API\\TaskManagemnet.API.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagemnet.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EF42FA-2672-4A18-A791-6DBA0F32A413}|TaskManagemnet.API\\TaskManagemnet.API.csproj|solutionrelative:taskmanagemnet.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF7EEB4-AB79-4903-8C95-AC87320E0330}|TaskManagement.DTO\\TaskManagement.DTO.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.dto\\request\\task\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF7EEB4-AB79-4903-8C95-AC87320E0330}|TaskManagement.DTO\\TaskManagement.DTO.csproj|solutionrelative:taskmanagement.dto\\request\\task\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF7EEB4-AB79-4903-8C95-AC87320E0330}|TaskManagement.DTO\\TaskManagement.DTO.csproj|c:\\users\\dhruvin\\documents\\project\\taskmanagement\\taskmanagement.dto\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF7EEB4-AB79-4903-8C95-AC87320E0330}|TaskManagement.DTO\\TaskManagement.DTO.csproj|solutionrelative:taskmanagement.dto\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 514,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\Request\\Task\\UpdateTaskRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagement.DTO\\Request\\Task\\UpdateTaskRequest.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\Request\\Task\\UpdateTaskRequest.cs",
+              "RelativeToolTip": "TaskManagement.DTO\\Request\\Task\\UpdateTaskRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:20:17.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\Constants.cs",
+              "RelativeDocumentMoniker": "TaskManagement.DTO\\Constants.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\Constants.cs",
+              "RelativeToolTip": "TaskManagement.DTO\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T11:09:14.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Utility\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Utility\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Utility\\MappingProfile.cs",
+              "RelativeToolTip": "TaskManagement.Utility\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:50:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Repository\\Repository\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Repository\\Repository\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Repository\\Repository\\TaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Repository\\Repository\\TaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:49:32.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Repository\\IRepository\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Repository\\IRepository\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Repository\\IRepository\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskManagement.Repository\\IRepository\\ITaskRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:49:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Service\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Service\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Service\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagement.Service\\Services\\TaskService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:49:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Service\\IServices\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Service\\IServices\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.Service\\IServices\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagement.Service\\IServices\\ITaskService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:48:46.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagemnet.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TaskManagemnet.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagemnet.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TaskManagemnet.API\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T10:47:50.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

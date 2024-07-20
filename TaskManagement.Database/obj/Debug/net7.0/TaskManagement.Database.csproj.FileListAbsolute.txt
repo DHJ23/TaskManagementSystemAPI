@@ -1,0 +1,5 @@
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net7.0\TaskManagement.Database.csproj.AssemblyReference.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net7.0\TaskManagement.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net7.0\TaskManagement.Database.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net7.0\TaskManagement.Database.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.Database\obj\Debug\net7.0\TaskManagement.Database.csproj.CoreCompileInputs.cache

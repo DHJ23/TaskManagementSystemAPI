@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\TaskManagement.DTO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\TaskManagement.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\TaskManagement.DTO.csproj",
+        "projectName": "TaskManagement.DTO",
+        "projectPath": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\TaskManagement.DTO.csproj",
+        "packagesPath": "C:\\Users\\dhruvin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhruvin\\Documents\\Project\\TaskManagement\\TaskManagement.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dhruvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ConnectHQAdmin/246bb2c0-a155-47f4-bf05-06e6620795a3/_packaging/connecthq.org/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

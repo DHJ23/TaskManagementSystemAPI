@@ -1,0 +1,11 @@
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\bin\Debug\net8.0\TaskManagement.DTO.deps.json
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\bin\Debug\net8.0\TaskManagement.DTO.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\bin\Debug\net8.0\TaskManagement.DTO.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.AssemblyInfoInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.AssemblyInfo.cs
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.csproj.CoreCompileInputs.cache
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\refint\TaskManagement.DTO.dll
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\TaskManagement.DTO.pdb
+C:\Users\dhruvin\Documents\Project\TaskManagement\TaskManagement.DTO\obj\Debug\net8.0\ref\TaskManagement.DTO.dll
